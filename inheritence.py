@@ -1,5 +1,5 @@
 #single inheritance
-# Parent class
+# Parent class  
 class Animal:
     def speak(self):
         print("Animal speaks")
